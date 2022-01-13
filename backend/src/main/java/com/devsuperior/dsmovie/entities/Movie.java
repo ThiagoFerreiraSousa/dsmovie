@@ -25,6 +25,5 @@ public class Movie {
 	private Double score;
 	private Integer count;
 	private String image;
-	
 
 }
