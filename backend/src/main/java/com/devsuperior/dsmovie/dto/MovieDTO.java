@@ -13,7 +13,6 @@ public class MovieDTO {
 	private Integer count;
 	private String image;
 	
-	
 	public MovieDTO() {		
 	}
 
@@ -32,6 +31,5 @@ public class MovieDTO {
 		count = movie.getCount();
 		image = movie.getImage();
 	}
-	
 }
 
